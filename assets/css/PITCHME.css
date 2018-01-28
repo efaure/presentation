@@ -14,6 +14,11 @@ body {
   background: linear-gradient(to right, #1F1C18, #8E0E00);
 }
 
+.reveal section img {
+  border: 0;
+  box-shadow: none;
+}
+
 .reveal pre {
   width: 100%;
   box-shadow : none;
